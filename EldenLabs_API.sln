@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EldenLabs_API", "EldenLabs_API\EldenLabs_API.csproj", "{EDBD98E9-E0AC-4CDA-9A94-2A1A7A0013A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FA8001A3-827C-4F9B-B47F-E72F924005AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDBD98E9-E0AC-4CDA-9A94-2A1A7A0013A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBD98E9-E0AC-4CDA-9A94-2A1A7A0013A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBD98E9-E0AC-4CDA-9A94-2A1A7A0013A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBD98E9-E0AC-4CDA-9A94-2A1A7A0013A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8001A3-827C-4F9B-B47F-E72F924005AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8001A3-827C-4F9B-B47F-E72F924005AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8001A3-827C-4F9B-B47F-E72F924005AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8001A3-827C-4F9B-B47F-E72F924005AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91A2FC5-907E-41C2-938E-86D0A7B218D7}
+	EndGlobalSection
+EndGlobal
